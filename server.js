@@ -11,6 +11,6 @@ app.listen(port, function(err){
   }
 
   //otherwise tell us that it is running
-  console.log('Magic is happening on port ' + port);
+  console.log('The app is listening on port # ' + port);
 
 });
